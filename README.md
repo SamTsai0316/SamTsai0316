@@ -19,6 +19,6 @@
 ---
 
 ### 📈 GitHub Stats
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/SamTsai0316?theme=dark&font=Source+Code+Pro)  
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SamTsai0316&show_icons=true&theme=radical)
 
