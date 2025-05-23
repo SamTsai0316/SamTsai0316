@@ -20,3 +20,4 @@
 ### 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SamTsai0316&show_icons=true&theme=radical)
+![guts-berserk-eclipse](https://github.com/user-attachments/assets/205f921f-6b74-4634-92db-46b8651c5d77)
